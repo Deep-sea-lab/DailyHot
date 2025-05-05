@@ -44,7 +44,7 @@ footer {
     margin-bottom: 4px;
     .description {
       &::after {
-        content: "@ Copyright By";
+        content: "Copyright © 深海 & Made by";
         margin: 0 6px;
       }
     }
